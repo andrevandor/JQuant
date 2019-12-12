@@ -8,3 +8,7 @@ Os códigos para otimização de capacidade e geração de letras de música pod
 **HugginFace (geração de texto):** https://github.com/huggingface/transformers
 
 **Grover (geração e detecção de fake news):** https://github.com/rowanz/grover
+
+**Otimização:** https://github.com/jquant/workshop-mao-na-massa/tree/master/otimizacao
+
+**Geração de músicas:** https://github.com/jquant/workshop-mao-na-massa/tree/master/geracao_musicas
